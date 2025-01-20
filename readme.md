@@ -67,8 +67,3 @@ You can tweak the parameters as you wish and get an optimal chunk size,chunk ove
 
 ## 🎉 Contributions
 Feel free to contribute to this project! Whether you have suggestions, improvements, or fixes, your input is welcome. Just fork the repo and create a pull request. 🚀
-#### Contributors
-
-- [@Rohitmantha](https://github.com/Rohitmantha)
-- [@uday-sv](https://github.com/uday-sv)
-
