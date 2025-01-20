@@ -10,7 +10,7 @@ This is a simple template of RAG pipeline to add context in Gemini prompts using
 **Clone the Repository**
 
 ```bash
-  git clone https://github.com/Rohitmantha/RAG-Pipeline-using-Gemini-API.git
+  git clone https://github.com/ANUDEEP9CHALLA/RAG-Pipeline-using-Gemini-API
 ```
 
 **Go to the project directory**
